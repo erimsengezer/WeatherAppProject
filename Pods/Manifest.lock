@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.2.2)
+  - ProgressHUD (13.4)
+  - SwiftEventBus (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - ProgressHUD
+  - SwiftEventBus (from `https://github.com/cesarferreira/SwiftEventBus.git`, tag `5.0.1`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ProgressHUD
+
+EXTERNAL SOURCES:
+  SwiftEventBus:
+    :git: https://github.com/cesarferreira/SwiftEventBus.git
+    :tag: 5.0.1
+
+CHECKOUT OPTIONS:
+  SwiftEventBus:
+    :git: https://github.com/cesarferreira/SwiftEventBus.git
+    :tag: 5.0.1
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  ProgressHUD: 137a7fc677487c5581668f4490563124fb35c232
+  SwiftEventBus: b30f617a6aca5a9336464b4d3f5931034762f2d5
+
+PODFILE CHECKSUM: 76288c3ac9da476a58166df6af9c5268ff2a19ed
+
+COCOAPODS: 1.9.1
